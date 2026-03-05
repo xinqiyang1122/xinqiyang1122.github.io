@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xinqiyang.jpeg"
   name             : "Xinqi Yang"
   pronouns         : # example: "she/her"  
   bio              : "Striving to be a motivated, independent and meticulous AI education researcher"
