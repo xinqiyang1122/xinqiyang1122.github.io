@@ -21,7 +21,7 @@ Research & Internship Experience
 ------
 - 09/2024-10/2024 | Intern Physics Teacher & Head Teacher | Shenzhen Bao’an Middle School (Group) The Second Foreign Language School  
 - 08/2024 | Intern & Assistant Teacher |Shenzhen Nanshan Jiangxin Education and Training Center Co., Ltd.
-- 02/2026-05/2026 | Research Assistant in HKEDU focusing Agentic AI education
+- 02/2026-05/2026 | Research Assistant in EdUHK focusing Agentic AI education
 
 Teaching Experience
 ------
